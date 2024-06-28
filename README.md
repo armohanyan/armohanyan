@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Armen Ohanyan</h1>
 <h3 align="center">Full Stack JavaScript Engineer</h3>
-📫 How to reach me: me@armohanyan.dev
-📄 Learn more about my experiences: armohanyan.dev
-Blog Posts
+<p>📫 How to reach me: me@armohanyan.dev</p>
+<p>📄 Learn more about my experiences: armohanyan.dev</p>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
