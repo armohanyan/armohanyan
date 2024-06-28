@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Armen Ohanyan</h1>
 <h3 align="center">Full Stack JavaScript Engineer</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=armohanyan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=armohanyan" alt="GitHub Trophies" />
-  </a>
-</p>
 📫 How to reach me: me@armohanyan.dev
 📄 Learn more about my experiences: armohanyan.dev
 Blog Posts
