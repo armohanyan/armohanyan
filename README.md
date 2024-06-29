@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Armen Ohanyan</h1>
-<h3 align="center">Full Stack JavaScript Engineer</h3>
+<h3 align="center">Senior Full Stack JavaScript Engineer</h3>
 <p>📫 How to reach me: me@armohanyan.dev</p>
 <p>📄 Learn more about my experiences: armohanyan.dev</p>
 
